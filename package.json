@@ -1,0 +1,14 @@
+{
+  "name": "coding-ai-agents-public",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Starter instruction files and skills for Claude Code and GitHub Copilot",
+  "license": "MIT",
+  "scripts": {
+    "deploy": "node bin/deploy.js",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=22.3.0"
+  }
+}
